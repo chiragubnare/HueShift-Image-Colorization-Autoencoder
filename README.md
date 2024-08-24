@@ -9,5 +9,5 @@ This project utilizes TensorFlow and Keras to showcase a Convolution Neural Netw
 
 This project serves as a practical example of using deep learning for image-to-image translation tasks in computer vision.
 
-Auto-Encoder Architecture 
+
 ![autoencoder](https://github.com/user-attachments/assets/827d0163-419c-4716-8c67-5ba41d6868c2)
