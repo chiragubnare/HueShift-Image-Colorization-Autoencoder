@@ -1,4 +1,4 @@
-# Color Conversion using CNN Auto-encoder
+# HueShift: Image Colorization using Transpose Convolution Auto-encoder
 
 This project utilizes TensorFlow and Keras to showcase a Convolution Neural Network Auto-encoder which is specifically created to add colour to grayscale images. The model is structured with layers for downsampling (convolutional) and upsampling (transposed convolutional). The process involves the following steps:
 
